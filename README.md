@@ -1,4 +1,4 @@
-# Hugh Zeltner
+
 
 ### Education
 ***University Of Washngtion Tacoma***                         Tacoma, Wa
@@ -41,7 +41,16 @@ Member of the River Ridge High School Robotics team for two seasons, competing i
 Programmed in Java and contributed to designing and building various competition robots.
 
 ### Projects
+#### **Detail Technician** — *Tumwater, WA*  
+**X-Clusive Automotive Detailing** — *May 2023–Present*  
+- Applied skills in restoring vehicle interiors and exteriors.  
+- Earned certifications through System X.  
 
+<br><br>
+
+#### **Roof Cleaner** — *Olympia, WA*  
+**Clean Roofs North West** — *June 2022–September 2024*  
+- Cleaned roofs and gutters.  
 
 
 
