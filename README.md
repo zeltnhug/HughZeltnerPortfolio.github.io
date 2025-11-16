@@ -1,5 +1,5 @@
 
-![My Photo](IMG_7245.png)
+![My Photo](IMG_72452(Final).png)
 ### Education
 ***University Of Washngtion Tacoma***                         Tacoma, WA
 Associate in Arts with a focus in Computer Science 	2022- June 2024
