@@ -10,16 +10,38 @@ GPA: 3.6
 South Puget Sound Community College                     Olympia, Wa
 Associate in Arts with a focus in Computer Science 	2022- June 2024
 GPA: 3.6
+.dropdown {
+  margin-top: 10px;
+  width: 100%;
+}
 
-nav:
-  - title: Home
-    url: /
-  - title: Projects
-    children:
-      - title: Project A
-        url: /project-a
-      - title: Project B
-        url: /project-b
+.dropbtn {
+  background-color: #f5f5f5;
+  color: #333;
+  width: 100%;
+  padding: 12px 16px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  text-align: left;
+  font-size: 18px;
+}
+
+.dropdown-content {
+  display: none;
+  border: 1px solid #ccc;
+  border-top: none;
+  padding: 10px 15px;
+  background: white;
+}
+
+.dropdown-content p {
+  margin: 5px 0;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 
 ### Work Expierence
 Detail Technician                                                                                                                      Tumwater, WA                                                                       
