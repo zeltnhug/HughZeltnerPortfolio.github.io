@@ -14,7 +14,7 @@ GPA: 3.6
 
 ### Work Expierence
 
-X-Clusive Automotive Detailing — May 2023 – Present
+***X-Clusive Automotive Detailing*** — May 2023 – Present
 
 Applied skills in restoring vehicle interiors and exteriors.
 
@@ -24,7 +24,7 @@ Gained customer service skills by consulting with clients about their vehicle ne
 
 Roof Cleaner — Olympia, WA
 
-Clean Roofs North West — June 2022 – September 2024
+***Clean Roofs North West*** — June 2022 – September 2024
 
 Cleaned roofs and gutters in both commercial and residential settings.
 
@@ -34,7 +34,7 @@ Strengthened customer service skills by clearly communicating project requiremen
 
 Head Engineer — Lacey, WA
 
-River Ridge Robotics — September 2022 – January 2024
+***River Ridge Robotics*** — September 2022 – January 2024
 
 Member of the River Ridge High School Robotics team for two seasons, competing in the nationwide FTC First Tech Challenge.
 
