@@ -50,8 +50,11 @@ Jgrasph, Eclipse, intelliJ IDEA
 ## Soft skills
 
 **Leadership and Teamwork**
+Led technical tasks and guided team members during robotics projects, ensuring goals were met efficiently and with high quality.
+Collaborated with teammates and coworkers to complete projects safely and effectively, contributing ideas and supporting others to achieve shared goals.
 
 **Communication**
+Communicated clearly with clients and team members to understand needs, explain solutions, and coordinate for meeting deadlines.
 
 ---
 ### Projects
