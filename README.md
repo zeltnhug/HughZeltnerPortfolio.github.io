@@ -73,5 +73,6 @@ Python
 
 ### Resume
 [View My Resume](https://github.com/zeltnhug/HughZeltnerPortfolio.github.io/blob/main/Hugh%20Z%20Resume%20October%202025.pdf)
+![My Resume](
 
 
