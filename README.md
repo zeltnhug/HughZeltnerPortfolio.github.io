@@ -1,6 +1,6 @@
 
-                                          ***Hello, I'm Hugh Zeltner***
-![My Photo](IMG_72452(Final).png)         ***Welcome to my portfolio.***
+                                          
+![My Photo](IMG_72452(Final).png) ***Hello, I'm Hugh Zeltner Welcome to my portfolio.***
 
 
 
