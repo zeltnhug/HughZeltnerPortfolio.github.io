@@ -5,7 +5,7 @@
 
 
 ## Contact me
-- [LinkedIn](www.linkedin.com/in/hughzeltner)
+- [LinkedIn]([www.linkedin.com/in/hughzeltner](https://www.linkedin.com/in/hugh-zeltner-a36956345/))
 - Email: ZeltnerHugh@gmail.com
 
 
