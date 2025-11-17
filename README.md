@@ -63,7 +63,7 @@ Collaborated with teammates and coworkers to complete projects safely and effect
 
 ---
 ### Projects
-*Java*
+**Java**
 
 This Java program is a Grade Tracking System that allows users to enter multiple class names, record scores for each class, and automatically calculate useful statistics. It uses object oriented programming, Java Collections, user input handling, and basic data analysis.
 
@@ -72,7 +72,7 @@ Add up to 5 classes using a JOptionPane pop-up window.
 
 Enter multiple scores for each class using the console.
 
-*Automatically computes:*
+**Automatically computes:**
 Class average
 
 Highest score
