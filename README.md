@@ -1,5 +1,5 @@
-
-![My Photo](IMG_72452(Final).png)       ## Home <sub>(Coming Soon)</sub>  ***Hello, I'm Hugh Zeltner. Welcome to my portfolio.***
+                                          <h2 id="home" style="margin:0; font-size:0;">&nbsp;</h2>
+![My Photo](IMG_72452(Final).png)         ***Hello, I'm Hugh Zelnter. Welcome to my portfolio.***
 
 
 
