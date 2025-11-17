@@ -31,12 +31,14 @@ GPA: 3.6
 
 ---
 
-## Skils
+## Technicl Skils
 
 
 
 
+---
 
+## Soft skills
 
 
 
