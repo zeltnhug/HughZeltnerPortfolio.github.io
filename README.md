@@ -1,5 +1,4 @@
-                                          
-![My Photo](IMG_72452(Final).png)
+                                          ![My Photo](IMG_72452(Final).png)
 
 **About me**
 Hello I'm Hugh Zeltner, I am studying Computer Science and Buissnes adminasatrion at the Universitry of washigton tacoma. In my free time I like to rock climb and Ski in the winter.
