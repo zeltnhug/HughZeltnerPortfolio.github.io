@@ -31,6 +31,16 @@ GPA: 3.6
 
 ---
 
+## Skils
+
+
+
+
+
+
+
+
+---
 
 ## Work Expierence
 **Detail Technician**
