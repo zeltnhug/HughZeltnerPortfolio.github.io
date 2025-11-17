@@ -65,6 +65,7 @@ Collaborated with teammates and coworkers to complete projects safely and effect
 ### Projects
 **Java**
 
+*Grade Tracker*
 This Java program is a Grade Tracking System that allows users to enter multiple class names, record scores for each class, and automatically calculate useful statistics. It uses object oriented programming, Java Collections, user input handling, and basic data analysis.
 
 *Key Features:*
@@ -73,6 +74,7 @@ Add up to 5 classes using a JOptionPane pop-up window.
 Enter multiple scores for each class using the console.
 
 **Automatically computes:**
+
 Class average
 
 Highest score
@@ -82,7 +84,32 @@ Lowest score
 Overall average across all classes
 
 
-Python
+**Python**
+
+*Python Project – Multi-Currency Converter*
+This project is a Multi-Currency Converter that allows users to convert between several major world currencies using predefined exchange rates. It demonstrates strong Python fundamentals, including input handling, data structures, arithmetic operations, and clean program design.
+
+*Supported Currencies:*
+USD – United States Dollar
+
+EUR – Euro
+
+IQD – Iraqi Dinar
+
+BTC – Bitcoin
+
+JPY – Japanese Yen
+
+**Key Features:**
+Convert from any supported currency to another.
+
+User-friendly text-based interface.
+
+Stores exchange rates in a Python dictionary for easy updates.
+
+Validates user input to prevent incorrect selections.
+
+Calculates and displays the converted value with clean formatting.
 
 ---
 
