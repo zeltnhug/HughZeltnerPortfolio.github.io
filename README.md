@@ -11,6 +11,7 @@ Minor in Business Administration (in progress)
 ***South Puget Sound Community College***                    Olympia, WA
 Associate in Arts with a focus in Computer Science 	(_2022 - June 2024_)
 GPA: 3.6
+
 ---
 
 ### Work Expierence
