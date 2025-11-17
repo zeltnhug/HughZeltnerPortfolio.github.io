@@ -88,10 +88,13 @@ This project is a Multi-Currency Converter that allows users to convert between 
 *Supported Currencies:*
 USD – United States Dollar
 
--EUR – Euro
--IQD – Iraqi Dinar
--BTC – Bitcoin
--JPY – Japanese Yen
+-EUR  Euro
+
+-IQD  Iraqi Dinar
+
+-BTC  Bitcoin
+
+-JPY  Japanese Yen
 
 **Key Features:**
 Convert from any supported currency to another.
