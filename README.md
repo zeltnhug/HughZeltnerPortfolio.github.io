@@ -4,6 +4,7 @@ I’m really passionate about exploring how technogly can help people interact m
 ![My Photo](IMG_72452(Final).png)   
 
 **About me**
+
 Hello I'm Hugh Zeltner, I’m currently studying Computer Science and Business Administration at the University of Washington Tacoma. I’ve always been fascinated by how technogly is alwasys advancing, how people use it, and how it can make life easier when applied thoughtfully.
 
 I’m working toward a career where I can connect people with meaningful technology, whether through software, product development, or technical communication. Helping others understand and use tech effectively is what motivates me.
