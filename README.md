@@ -19,8 +19,8 @@ Hello I'm Hugh Zeltner, I am
 
 ## Education
 ***University Of Washngtion Tacoma***                         Tacoma, WA
-Bachelors of Arts in Computer Science      (_2025 – Expected June 2027_)
-Minor in Business Administration (in progress)
+Bachelors of Arts in Computer Science & Minor in Business Administration(_2025 – Expected June 2027_)
+(in progress)
 
 
 ---
